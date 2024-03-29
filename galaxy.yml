@@ -6,6 +6,7 @@ version: 1.0.0
 readme: README.md
 authors:
   - "Vikrant Balyan (@vvb)"
+  - "David Soper (@dsoper2)"
 description: "Ansible Modules for Cisco UCS IMC servers."
 license:
   - "Apache-2.0"
